@@ -22,3 +22,7 @@ $ clip < /c/Users/venug/.ssh/id_rsa1.pub
 NOW ADD The copied SSH-key content in GitHub acc
 ACC --> Settings ----> SSH ---> New --> Paste the copied content in KEY filed(NOTE: Delete any spaces at the end)
 DONE.
+
+Documents referd:
+1) https://www.linuxfordevices.com/tutorials/linux/connect-to-github-with-ssh
+2) https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
