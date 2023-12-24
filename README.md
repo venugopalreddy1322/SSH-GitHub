@@ -1,6 +1,6 @@
 # SSH-GitHub
 
-Steps to create SSH key and add in GitHub account to coonect using SSH
+Steps to create SSH key locally, and add in GitHub account to coonect using SSH
 ---> To check is there any ssh keys
       $ ls -la ~/.ssh
 ----> To create ssh key
