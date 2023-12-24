@@ -1,7 +1,7 @@
 # SSH-GitHub
 
 Steps to create SSH key locally, and add in GitHub account to coonect using SSH
----> To check is there any ssh keys
+---> To check is there any ssh keys(Terminal)
       $ ls -la ~/.ssh
 ----> To create ssh key
       $ ssh-keygen -t rsa -C "iam-venugopalreddy@github"  #C is comment to identify which key is for which purpose
